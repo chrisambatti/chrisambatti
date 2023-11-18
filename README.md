@@ -1,4 +1,4 @@
-Hi everyone,
+Hi everyone
 Who made it to my README page.
 I'm Christopher Ambatti,
 A student residing from the beautiful country of India.
