@@ -1,7 +1,8 @@
-Hi everyone who made it to my README page.
+Hi everyone,
+Who made it to my README page.
 I'm Christopher Ambatti,
-A dynamic individual at the age of 21,
-Currently pursuing a B.E. in Computer Engineering.
+A student residing from the beautiful country of India.
+At the age of 21,Currently pursuing a B.E. in Computer Engineering, at Mumbai university.
 With a passion for both the digital and physical realms
 I find myself deeply engrossed in the world of coding,
 Crafting lines of logic that breathe life into software.
