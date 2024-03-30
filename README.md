@@ -1,10 +1,8 @@
 <h1 align="center">Hi everyone 👋, I'm Christopher Ambatti</h1>
 <h3 align="center">An upcoming Software Developer</h3>
 
-<img align-"right" alt="img" width="400px" src="<h1 align="center">Hi everyone 👋, I'm Christopher Ambatti</h1>
-<h3 align="center">An upcoming Software Developer</h3>
-
-<img align-"right" alt="img" width="400px" src="https://tenor.com/bhNGB.gif">
+<img align="right" alt="coding" width="400px" src="![image](https://github.com/chrisambatti/chrisambatti/assets/139890645/014519ca-370c-4926-8a15-fedd48e5af49)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisambatti&label=Profile%20views&color=0e75b6&style=flat" alt="chrisambatti" /> </p>
 
