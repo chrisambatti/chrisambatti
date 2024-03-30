@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Christopher Ambatti</h1>
 <h3 align="center">An upcoming Software Developer</h3>
 
-<img align-"right" alt="img" width="400px" src="https://tenor.com/en-GB/view/code-coding-programming-computer-science-programming-language-gif-16596559?utm_source=share-button&utm_medium=Social&utm_content=pinterest">
+<img align-"right" alt="img" width="400px" src="https://tenor.com/bhNGB.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisambatti&label=Profile%20views&color=0e75b6&style=flat" alt="chrisambatti" /> </p>
 
