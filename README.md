@@ -1,6 +1,8 @@
 <h1 align="center">Hi everyone 👋, I'm Christopher Ambatti</h1>
 <h3 align="center">An upcoming Software Developer</h3>
 
+<img align-"right" alt="img" width="400px" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisambatti&label=Profile%20views&color=0e75b6&style=flat" alt="chrisambatti" /> </p>
 
 - 🔭 I’m currently working on [Address Updater App](https://lendenclub-geogrip-task.vercel.app/)
