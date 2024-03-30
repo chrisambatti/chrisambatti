@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Christopher Ambatti</h1>
 <h3 align="center">An upcoming Software Developer</h3>
 
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramming-gifs&psig=AOvVaw1SjxLgbjYnOdi9Bb2yD5S5&ust=1711877709343000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjo8NnXm4UDFQAAAAAdAAAAABAE">
+<div class="tenor-gif-embed" data-postid="21666282" data-share-method="host" data-aspect-ratio="1.28" data-width="100%"><a href="https://tenor.com/view/chilled-lamb-mienar-lofi-study-gif-21666282">Chilled Lamb Mienar GIF</a>from <a href="https://tenor.com/search/chilled+lamb-gifs">Chilled Lamb GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisambatti&label=Profile%20views&color=0e75b6&style=flat" alt="chrisambatti" /> </p>
 
