@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisambatti&label=Profile%20views&color=0e75b6&style=flat" alt="chrisambatti" /> </p>
 
-- 🔭 I’m currently working on [Address Updater](https://lendenclub-geogrip-task.vercel.app/)
+- 🔭 I’m currently working on [An AI based PDF summarization tool.](https://github.com/chrisambatti/pdf-summarizer)
 
 - 🌱 I’m currently learning **Expree.js🙈, Node.js🙉, Firebase🙊 and AWS**
 
