@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **chrisambatti123@gmail.com**
 
-- ⚡ Fun fact about me **⚡ I once hacked into my own computer just to see if I could outsmart my own security measures.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christopher ambatti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher ambatti" height="30" width="40" /></a>
