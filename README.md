@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently studying
+#  About Me:
+Hi Christopher here, I'm currently a Final year Computer Engineering student at University Of Mumbai 
 
 
 ## 🌐 Socials:
