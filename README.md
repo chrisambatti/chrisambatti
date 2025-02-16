@@ -1,5 +1,5 @@
 #  About Me:
-Hi Christopher here, I'm currently a Final year Computer Engineering student at University Of Mumbai 
+Hi, I'm Christopher, a final-year Computer Engineering student at the University of Mumbai. 
 
 
 ## 🌐 Socials:
