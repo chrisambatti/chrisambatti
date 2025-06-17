@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=chrisambatti&color=green)
 #  About Me:
-👋 Hi, I'm Christopher Ambatti — a Full Stack Developer.<br/>
+👋 Hi, I'm **Christopher Ambatti **— a Full Stack Developer.<br/>
 🎓 Computer Engineering graduate from the University of Mumbai <br/>
 💻 1+ year of experience in Frontedn & Backend development<br/>
 🚀 I enjoy building responsive websites, web tools, and clean UIs.<br/>
