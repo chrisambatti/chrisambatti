@@ -1,6 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=chrisambatti&color=green)
 #  About Me:
-Hi, I'm Christopher, a final-year Computer Engineering Graduate at the University of Mumbai. 
+👋 Hi, I'm Christopher Ambatti — a Full Stack Developer.
+🎓 Computer Engineering graduate from the University of Mumbai
+💻 1+ year of experience in Frontedn & Backend development
+🚀 I enjoy building responsive websites, web tools, and clean UIs.
+🔧 Tech I use: HTML, CSS, JavaScript, Tailwind, MongoDB, Firebase, Spring Boot.
+📂 Projects include: Website for JMS Automotive, Web Analytics Tool at UFB DigitalEdge, Address Updator Webpage-GeoGrip
 
 
 ## 🌐 Socials:
