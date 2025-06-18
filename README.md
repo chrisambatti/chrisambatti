@@ -5,7 +5,7 @@
 💻 1+ year of experience in Frontedn & Backend development<br/>
 🚀 I enjoy building responsive websites, web tools, and clean UIs.<br/>
 🔧 Tech I use: HTML, CSS, JavaScript, Tailwind, MongoDB, Firebase, Spring Boot.<br/>
-📂 Projects include: Website for JMS Automotive, Web Analytics Tool at UFB DigitalEdge, Address Updator Webpage-GeoGrip<br/>
+📂 Projects include: Website for JMS Automotive, Web Analytics Tool at UFB DigitalEdge, Address Updator Website - GeoGrip<br/>
 
 
 ## 🌐 Socials:
