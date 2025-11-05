@@ -57,20 +57,37 @@ Let’s connect and collaborate on innovative web and cloud projects — whether
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=chrisambatti&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chrisambatti&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisambatti&theme=vision-friendly-dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisambatti&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisambatti&theme=vision-friendly-dark&hide_border=false" height="160px"/>
+</p>
 
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=chrisambatti&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=chrisambatti&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisambatti&theme=vision-friendly-dark&hide_border=false&layout=compact" height="160px"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=chrisambatti&icon=4&color=2)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chrisambatti&theme=dracula&no-frame=false&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=chrisambatti&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=chrisambatti&icon=4&color=2" alt="Profile Views"/>
+  </a>
+</p>
