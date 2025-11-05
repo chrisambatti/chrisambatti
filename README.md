@@ -1,15 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=chrisambatti&color=green)
 
 # 👋 About Me  
-Hi, I'm **Christopher Ambatti**, a **Full Stack Developer** and **Computer Engineering graduate** from the **University of Mumbai**.  
 
-💻 With over a year of hands-on experience in **frontend and backend development**, I specialize in building scalable web applications, responsive UIs, and efficient backend systems.  
-🚀 I’m passionate about creating digital solutions that combine performance, design, and functionality.  
-🔧 **Tech Stack:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase, Spring Boot.  
-📂 **Key Projects:**  
-- **JMS Automotive Website** – Truck rental platform for a Middle Eastern client  
-- **Web Analytics Dashboard (UFB DigitalEdge)** – Real-time traffic tracking using MERN stack + AWS  
-- **GeoGrip Address Updator** – Web app integrating geolocation APIs  
+Hi, I'm **Christopher Ambatti** — a **Full Stack Developer** and **Computer Engineering graduate** from the **University of Mumbai**.  
+
+💻 I have over a year of professional experience developing and optimizing **end-to-end web applications** using modern frameworks and cloud technologies. My expertise spans **frontend and backend development**, creating responsive interfaces, secure APIs, and data-driven systems.  
+
+🚀 I’m passionate about building digital products that merge performance, usability, and scalability — turning ideas into impactful, real-world solutions.  
+
+🔧 **Core Technologies:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, Firebase, Spring Boot, and AWS.  
+
+📂 **Highlighted Projects:**  
+- **JMS Automotive Website** – Responsive truck rental platform for a Middle Eastern client  
+- **Web Analytics Dashboard (UFB DigitalEdge)** – Real-time website traffic visualization using the MERN stack and AWS  
+- **GeoGrip Address Updator** – Interactive web app integrating geolocation APIs for smart address management  
 
 ---
 
