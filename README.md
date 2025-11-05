@@ -87,7 +87,7 @@ Let’s connect and collaborate on innovative web and cloud projects — whether
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=chrisambatti&icon=4&color=2" alt="Profile Views"/>
+  <a href="https://visitcount.itsvg.in/api?id=chrisambatti">
+    <img src="https://visitcount.itsvg.in/api?id=chrisambatti&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views Counter" title="You're awesome for visiting! 💻"/>
   </a>
 </p>
