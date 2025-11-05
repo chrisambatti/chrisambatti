@@ -19,14 +19,25 @@ Hi, I'm **Christopher Ambatti** — a **Full Stack Developer** and **Computer En
 
 ## 🌐 Connect With Me  
 
-Let’s connect and collaborate on innovative web and cloud projects — whether it’s building, optimizing, or scaling modern applications.  
+I’m always open to **collaborating on web, cloud, and full-stack projects** — from building and optimizing applications to scaling systems for real-world impact.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-ambatti-014155247/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrisambatti123@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioo-chi-seven.vercel.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chrisambatti)
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-ambatti-014155247/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chrisambatti123@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolioo-chi-seven.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/chrisambatti">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
+
 
 # 💻 Tech Stack  
 
