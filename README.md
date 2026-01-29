@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=chrisambatti&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=chrisambatti&color=green)
 
 # ðŸ‘‹ About Me  
 
@@ -28,7 +28,7 @@ Iâ€™m always open to **collaborating on web, cloud, and full-stack projects** â€
   <a href="mailto:chrisambatti123@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolioo-chi-seven.vercel.app/">
+  <a href="https://portfolioo-christopher-ambattis-projects.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/chrisambatti">
@@ -37,7 +37,6 @@ Iâ€™m always open to **collaborating on web, cloud, and full-stack projects** â€
 </p>
 
 ---
-
 
 # ðŸ’» Tech Stack  
 
@@ -68,6 +67,7 @@ Iâ€™m always open to **collaborating on web, cloud, and full-stack projects** â€
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
 # ðŸ“Š GitHub Stats
 
 <p align="center">
@@ -94,7 +94,3 @@ Iâ€™m always open to **collaborating on web, cloud, and full-stack projects** â€
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=chrisambatti&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
-
----
-
-
