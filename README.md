@@ -39,7 +39,7 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Aegle — Procurement Analytics Dashboard](https://github.com/chrisambatti/Procurement-Dashboard)
+### 📊 [Procurement Analytics Dashboard](https://github.com/chrisambatti/Procurement-Dashboard)
 
 > A full-stack, enterprise-grade procurement analytics dashboard built for C-suite executives.
 
