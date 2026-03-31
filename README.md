@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏦 Working in **Banking & Finance** in Dubai
+- 🏦 Working in **Tech** in Dubai
 - 💻 Background in **Software Development Engineering**
 - 🚀 Passionate about building **full-stack web applications**
 - 📊 Love turning data into **beautiful, interactive dashboards**
