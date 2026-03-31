@@ -6,10 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🏦 Working in **Tech** in Dubai
-- 💻 Background in **Software Development Engineering**
+- 💻 Working as a **Jr. Programmer**
 - 🚀 Passionate about building **full-stack web applications**
-- 📊 Love turning data into **beautiful, interactive dashboards**
+- 📊 Love turning data & ideas into **beautiful, interactive Webpage & SaaS**
 - 🌍 Based in **Dubai, UAE**
 
 ---
