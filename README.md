@@ -42,7 +42,7 @@
 
 > A full-stack, enterprise-grade procurement analytics dashboard built for C-suite executives.
 
-- 🏗️ **Built with** ASP.NET Core MVC, MySQL, Dapper, Chart.js v4
+- 🏗️ **Built with** ASP.NET Core MVC, SQL, Dapper, Chart.js v4
 - 📊 **6 interactive charts** — pie, bar, horizontal bar, ranked lists, progress bars
 - 🔐 **Secure login** with session management and remember me
 - 🔄 **Auto-refresh** every 30 seconds from live MySQL data
